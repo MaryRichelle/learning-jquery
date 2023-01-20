@@ -1,0 +1,31 @@
+jQuery Manipulating CSS
+jQuery has several methods for CSS manipulation. We will look at the following methods:
+
+addClass() - Adds one or more classes to the selected elements
+removeClass() - Removes one or more classes from the selected elements
+toggleClass() - Toggles between adding/removing classes from the selected elements
+css() - Sets or returns the style attribute
+The following example shows how to add class attributes to different elements. Of course you can select multiple elements, when adding classes:
+\........
+Example
+$("button").click(function(){
+  $("h1, h2, p").addClass("blue");
+  $("div").addClass("important");
+}); 
+........./
+jQuery removeClass() Method
+The following example shows how to remove a specific class attribute from different elements:
+
+Example
+$("button").click(function(){
+  $("h1, h2, p").removeClass("blue");
+});
+
+
+
+The following example will show how to use the jQuery toggleClass() method. This method toggles between adding/removing classes from the selected elements:
+
+Example
+$("button").click(function(){
+  $("h1, h2, p").toggleClass("blue");
+});

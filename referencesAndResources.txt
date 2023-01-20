@@ -1,0 +1,37 @@
+from official jQ site
+https://learn.jquery.com/
+
+scrimba
+https://scrimba.com/playlist/pxZMUV
+https://scrimba.com/scrim/cKwKZWcE
+
+
+jQuery W3Schools 
+https://www.w3schools.com/jquery/default.asp
+
+
+jQuery sololearn
+https://www.sololearn.com/learning/1082
+
+
+great learning
+https://www.mygreatlearning.com/academy/learn-for-free/courses/introduction-to-jquery
+https://www.mygreatlearning.com/academy/learn-for-free/courses/jquery-tutorial
+
+udacity
+https://www.udacity.com/course/intro-to-jquery--ud245
+
+
+learnvern
+https://www.learnvern.com/jquery-tutorial
+
+udemy 
+https://www.udemy.com/course/jquery-tutorial/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.ROWMTA-A_ti.8322&utm_content=deal4584&utm_term=_._ag_77741651163_._ad_533999949994_._kw__._de_c_._dm__._pl__._ti_aud-396940771613%3Adsa-774930032609_._li_9061578_._pd__._&matchtype=&gclid=Cj0KCQiAlKmeBhCkARIsAHy7WVuuA9TEJ90n8yDht-RjPi_0tMzAa41WIZkuHAfbMie8CsnvV0Zz19AaAgheEALw_wcB
+code academy
+https://www.codecademy.com/learn/learn-jquery
+
+video resourses
+edureka
+https://www.youtube.com/watch?v=HgvIox6ehkM
+simplilearn
+https://www.youtube.com/watch?app=desktop&v=Rkvn_MA04fo

@@ -1,0 +1,19 @@
+The width() and height() methods can be used to get and set the width and height of HTML elements.
+jQuery has several important methods for working with dimensions:
+
+width()
+height()
+innerWidth()
+innerHeight()
+outerWidth()
+outerHeight()
+The width() method sets or returns the width of an element (excludes padding, border and margin).
+
+The height() method sets or returns the height of an element (excludes padding, border and margin).
+
+set width and height 
+$(function() {
+    $("div").css("background-color", "red");
+    $("div").width(100);
+    $("div").height(100);
+});
