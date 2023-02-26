@@ -6,13 +6,13 @@ removeClass() - Removes one or more classes from the selected elements
 toggleClass() - Toggles between adding/removing classes from the selected elements
 css() - Sets or returns the style attribute
 The following example shows how to add class attributes to different elements. Of course you can select multiple elements, when adding classes:
-\........
+``
 Example
 $("button").click(function(){
   $("h1, h2, p").addClass("blue");
   $("div").addClass("important");
 }); 
-........./
+```
 jQuery removeClass() Method
 The following example shows how to remove a specific class attribute from different elements:
 

@@ -42,3 +42,7 @@ $(":button")	//Selects all <button> elements and <input> elements of type="butto
 $("tr:even")//	Selects all even <tr> elements	
 $("tr:odd")	//Selects all odd <tr> elements
 
+]'
+'
+
+'
